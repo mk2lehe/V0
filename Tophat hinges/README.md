@@ -1,0 +1,3 @@
+- change the M3x8mm bottom hinge screws for M3x10mm
+- add insert for the top hinge or use self taping M3x10mm
+- all new tophat lower corrners use same screws 
