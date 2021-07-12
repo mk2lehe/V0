@@ -12,3 +12,6 @@ Replace front lower corrners with:
 I'll add for 2 and 2.5mm panels later.
 
 Bottom hinges no panel.stl if you dont use back panel. 
+
+
+!(Tophat with integrated hinges.png)
