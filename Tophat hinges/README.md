@@ -3,4 +3,4 @@
 - drill 3.5mm hole for an insert for the top hinge or use self taping M3x10mm (drill 2-2.5mm for self taping M3).
 - all new tophat lower corrners use same screws.
 
-I'll add modifed tophat parts with holes for inserts later.
+![PIC](Screen Shot 2021-07-09 at 17.27.37 PM.png)
