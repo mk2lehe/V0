@@ -8,4 +8,5 @@ You need to print new X carriage, backplate and A/B stepper mounts.
 
 
 
-![PIC](2nd_mini_AB_rail.png)
+![PIC](2nd_mini_AB_rail_1.png)
+![PIC](2nd_mini_AB_rail_2.png)
