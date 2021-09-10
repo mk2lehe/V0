@@ -2,7 +2,7 @@
 
 A/B mounts are from my LGX mount design.
 
-Y end stop need to relocated, for that I designed new Z end stop.
+I have two Y endstop location versions, left and right, choose whatever you like.
 
 You need to print new X carriage, backplate and A/B stepper mounts.
 
