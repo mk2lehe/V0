@@ -1,7 +1,11 @@
 2nd X MGN7 rail for the mini AB.
 
 A/B mounts are from my LGX mount design.
-You need to print new X carriage, backplate, A/B motor frame and Y end stop mount.
+You need to print:
+- X carriage
+- backplate
+- A/B motor frame 
+- Y end stop mount
 
 I have two Y endstop location versions, left and right, choose whatever you like, but right makes more sense for most.
 To mount on the right side, same site as stock:
