@@ -3,7 +3,7 @@
 A/B mounts are from my LGX mount design.
 
 You will need:
-- 2x M3 screws
+- 2x M3x18mm screws
 - 2x square or hex M3 nuts, square are better. 
 To insert the nuts, you need to cut it out the cylinders i nthe X carriage, they are to print w/o support.
 
