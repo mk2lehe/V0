@@ -5,7 +5,7 @@ A/B mounts are from my LGX mount design.
 You need to print:
 - X carriage
 - Backplate
-- A/B motor frame 
+- both A/B motor frame 
 - Y end stop mount
 
 I have two Y endstop location versions, left and right, choose whatever you like, but right makes more sense for most.
