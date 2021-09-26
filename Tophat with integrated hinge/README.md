@@ -14,4 +14,5 @@ I'll add for 2 and 2.5mm panels later.
 Bottom hinges no panel.stl if you dont use back panel. 
 
 
+![PIC](tophat_0.png)
 ![PIC](Tophat_with_integrated_hinges.png)
