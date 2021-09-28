@@ -4,8 +4,8 @@ A/B mounts are from my LGX mount design.
 
 You will need:
 - 2x M3x18mm screws
-- 2x square or hex M3 nuts, square are better. 
-To insert the nuts, you need to cut it out the cylinders i nthe X carriage, they are to print w/o support.
+- 2x square or hex M3 nuts, square are better. See first picture with the green nuts.
+To insert the nuts, you need to cut it out the cylinders in the X carriage, they are to print w/o support.
 
 You need to print:
 - X carriage
@@ -24,7 +24,7 @@ To mount on left (you need to flip the motor panel)
 - Y_Endstop_Mount_L.stl
 
 
-
+![PIC](M3_nut.png.png)
 ![PIC](2nd_mini_AB_rail_0.png)
 ![PIC](2nd_mini_AB_rail_0_1.png)
 ![PIC](2nd_mini_AB_rail_0_2.png)
