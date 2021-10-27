@@ -34,7 +34,8 @@ You will also need 1x 150mm MGN7, I don't recommend w/o the 2nd rail, even with 
 ![PIC](LGX_0_2.png)
 ![PIC](LGX_0.png)
 ![PIC](LGX_3.png)
+![PIC](LGX_5.png)
 ![PIC](LGX_4.png)
 ![PIC](LGX_1.png)
 ![PIC](LGX_2.png)
-![PIC](LGX_5.png)
+
